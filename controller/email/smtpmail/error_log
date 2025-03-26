@@ -1,0 +1,4 @@
+[28-Aug-2017 09:30:24 Etc/GMT] PHP Notice:  fputs(): send of 27 bytes failed with errno=32 Broken pipe in /home/thekidqc/public_html/rjbuilders.co.in/test_mail/smtpmail/classes/class.smtp.php on line 494
+[28-Aug-2017 09:30:24 Etc/GMT] PHP Notice:  fputs(): send of 12 bytes failed with errno=32 Broken pipe in /home/thekidqc/public_html/rjbuilders.co.in/test_mail/smtpmail/classes/class.smtp.php on line 212
+[28-Aug-2017 09:42:06 Etc/GMT] PHP Notice:  fputs(): send of 27 bytes failed with errno=32 Broken pipe in /home/thekidqc/public_html/rjbuilders.co.in/test_mail/smtpmail/classes/class.smtp.php on line 494
+[28-Aug-2017 09:42:06 Etc/GMT] PHP Notice:  fputs(): send of 12 bytes failed with errno=32 Broken pipe in /home/thekidqc/public_html/rjbuilders.co.in/test_mail/smtpmail/classes/class.smtp.php on line 212
