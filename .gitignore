@@ -1,0 +1,16 @@
+# System files
+error_log
+.DS_Store
+.htaccess
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+config.php
+
+# Backup files
+*.bak
+*-bkp.php

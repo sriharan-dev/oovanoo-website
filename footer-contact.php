@@ -24,17 +24,19 @@
                         <h5 class="fst-italic">Write to Us</h5>
                         <p>Your words inspire us! Have questions, feedback, or ideas? Send us an email, and our team
                             will get back to you in no time.</p>
-                        <p>&#x1F4E7; Email:(Official Oovanoo Mail id)</p>
+                        <p>&#x1F4E7; Email: <a href="mailto:ceo@oonavoo.com" target="_blank">ceo@oonavoo.com</a></p>
                         <h5 class="fst-italic">Let’s Talk</h5>
                         <p>Prefer a good old-fashioned phone call? We’re all ears to hear you. Give us a ring, and let’s
                             chat!</p>
-                        <p>&#x1F4DE; Phone: +91-XXXX-XXXXXX</p>
+                        <p>&#x1F4DE; Phone: <a href="tel:+91-9500545437" target="_blank"> +91-9500545437</a></p>
                         <h5 class="fst-italic">Where to Find Us?</h5>
                         <p>While we deliver love and food to your doorstep, you can find us right here when you need us!
                         </p>
                         <h5 class="fst-italic">Head Office</h5>
                         <p>Oovanoo Headquarters.<br>
-                           [Insert Full Address Here]
+                        139, 5th Street, CTO Colony,<br>
+                        Tambaram West, Tambaram, Kanchipuram,<br>
+                        Chennai - 600045
                         </p>
                         <p>We’d be thrilled to welcome you, whether it’s for a cup of coffee or to discuss how we can help each other grow!</p>
                 <h4>Follow the Oovanoo Journey!</h4>

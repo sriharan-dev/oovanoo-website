@@ -1,7 +1,7 @@
   <!-- Navbar Start -->
   <nav class="navbar  navbar-expand-lg  px-4 py-3">
     <div class="brand ps-md-5">
-      <a class="navbar-brand" href="#"><img src="assets/White.png" alt="" class=" object-fit-cover"
+      <a class="navbar-brand" href="index.php"><img src="assets/White.png" alt="" class=" object-fit-cover"
           style="width: 230px; height: 70px;"></a>
     </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
